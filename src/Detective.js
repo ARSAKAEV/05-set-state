@@ -1,6 +1,6 @@
-import { useState } from "react";
+import {useState} from 'react'
 
-function Detective  () {
+function Detective () {
     const [sherlock, setSherlock] = useState('психопат')
     const handleClick = () => {
         setSherlock('высокоактивный социопат')
@@ -18,4 +18,4 @@ function Detective  () {
     )
 };
 
-export default Detective ;
+export default Detective;

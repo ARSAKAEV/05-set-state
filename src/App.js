@@ -1,8 +1,8 @@
-import Detective from "./Detective";
+import Base from "./Base";
 
 function App () {
     return (
-        <Detective />
+        <Base />
     )
 };
 
