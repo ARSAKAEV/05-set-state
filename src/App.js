@@ -1,8 +1,8 @@
-import Heroes from "./Heroes";
+import Detective from "./Detective";
 
 function App () {
     return (
-        <Heroes/>
+        <Detective />
     )
 };
 
